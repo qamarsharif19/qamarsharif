@@ -17,7 +17,7 @@
 	],
 	"main": "index.js",
 	"engines": {
-		"node": "^14.0.0"
+		"node": "22.x"
 	},
 	"scripts": {
 		"lint": "eslint ./; true",
